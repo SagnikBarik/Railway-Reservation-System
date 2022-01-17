@@ -63,5 +63,5 @@ if __name__ == "__main__":
     LabelBase.register(name="BPoppins", fn_regular="Poppins-Medium.ttf")
     LabelBase.register(name="MPoppins", fn_regular="Poppins-Bold.ttf")
     LabelBase.register(name="LPoppins", fn_regular="Poppins-Light.ttf")
-    LabelBase.register(name="Signature", fn_regular="E:\\py\\Class 12\\Railway-Reservation-System\\bedtime stories.ttf")
+    LabelBase.register(name="Signature", fn_regular="D:\\project\\Railway-Reservation-System\\bedtime stories.ttf")
     Railway().run()
